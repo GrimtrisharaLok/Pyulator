@@ -30,6 +30,5 @@ while quit != 1:
     if(loop == "y" or loop == ""):
         continue
     else:
-        print()
-        print("Thank you for using Pyulator")
+        print("\nThank you for using Pyulator")
         quit = 1
